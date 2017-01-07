@@ -1,0 +1,9 @@
+7
+are
+area
+base
+cat
+cater
+children
+basement
+caterer

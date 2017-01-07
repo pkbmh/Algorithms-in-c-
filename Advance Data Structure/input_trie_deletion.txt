@@ -1,0 +1,3 @@
+hello it is program for deletion in trie
+checking the correctness of programm
+try to delete any key from this file and check it

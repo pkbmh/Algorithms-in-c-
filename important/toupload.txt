@@ -1,0 +1,5 @@
+1.Create a matrix with alternating rectangles of O and X === array
+2. trie
+3. kth smallest using BST === tree.
+4. Length of the largest subarray with contiguous elements === array
+5. Find four elements that sum to a given value == array
